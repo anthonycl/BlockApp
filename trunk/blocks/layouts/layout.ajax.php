@@ -1,0 +1,1 @@
+<?php $view ? require_once($view) : '' ?>

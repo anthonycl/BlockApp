@@ -1,0 +1,1 @@
+<h2>If you reached this page, there was a fatal error.</h2>
